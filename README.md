@@ -12,7 +12,9 @@ Open-source, AI-powered server management platform. Replaces Portainer + pgAdmin
 
 **Terminal + Docker + Database Studio + Git + Deploy + Security + Monitoring**
 
-4 npm dependencies. No React. No build step. BYOK AI.
+**v3.0** — AI Brain (334 KB entries), 20 DevOps Agents, Ollama local LLM, Flow/DAG orchestration, MCP Server (37 tools), 5-provider router with fallback chains.
+
+7 npm dependencies. No React. No build step. BYOK AI.
 
 ---
 
